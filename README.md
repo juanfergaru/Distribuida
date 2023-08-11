@@ -1,2 +1,2 @@
 # Distribuida
-Programacion distribuida
+Programacion distribuida - Juan Fernando Galeano
